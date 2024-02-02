@@ -1,3 +1,4 @@
+// 15/15
 #include <stdio.h>
 
 int max(int a, int b) { if(a>b) return a; return b; }
@@ -17,14 +18,6 @@ void sort(int* list, int len) {
         }
         if(!swapped) break;
     }
-}
-
-void printArr(int* list, int len) {
-    int i;
-    for(i=0;i<len;i++) {
-        printf("%d ", list[i]);
-    }
-    printf("\n");
 }
 
 void combineArrs(int* dest, const int* sourceOne, const int* sourceTwo, int sourceLen) {
