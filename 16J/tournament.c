@@ -1,3 +1,4 @@
+// 15/15
 #include <stdio.h>
 
 int getGroup(int wins) {
