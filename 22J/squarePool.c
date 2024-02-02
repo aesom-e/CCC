@@ -1,3 +1,4 @@
+// 3/15 (N<=50 && T = 1)
 #include <stdio.h>
 
 int max(int a, int b) {
