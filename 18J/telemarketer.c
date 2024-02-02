@@ -1,3 +1,4 @@
+// 15/15
 #include <stdio.h>
 
 int isTelemarketer(const int* number) {
