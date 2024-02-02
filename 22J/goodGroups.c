@@ -1,3 +1,4 @@
+// 14/15 (All but G<=100 000 & X<=100 000 & Y<=100 000) 
 #include <stdio.h>
 #include <string.h>
 
